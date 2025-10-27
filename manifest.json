@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "OWC 2025 Local Times",
+  "version": "1.3.0",
+  "description": "Adds Local time columns to OWC 2025 wiki schedules with a selectable timezone and a hide/unhide toggle.",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
