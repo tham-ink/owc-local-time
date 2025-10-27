@@ -1,4 +1,4 @@
-extention so i dont have to keep converting the fuckass utc to pst why cant they just have this on the website already man
+extention so i dont have to keep converting the fuckass utc to pst why cant they just have this on the website already man chatgpt made this for me idk what the fuck any of ts means </3
 
 how to install:
 
